@@ -64,7 +64,7 @@ int main()
          item_ptr++;
       }
 
-      cout << toPay << endl;
+      cout << toPay <<endl;
    }
 
    return 0;
